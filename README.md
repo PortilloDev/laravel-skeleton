@@ -22,7 +22,7 @@
 
 ```bash
 # Clone the template (GitHub → "Use this template")
- git clone <repo‑url> my‑project && cd my‑project
+ git clone <https://github.com/PortilloDev/laravel-skeleton.git> my‑project && cd my‑project
 
 # PHP dependencies
  composer install
